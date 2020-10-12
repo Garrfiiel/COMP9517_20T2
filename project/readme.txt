@@ -32,4 +32,4 @@ Usage:
 functional:
 UI:  run the UI part if wanna see the detailed information for task3, click the cell center and then the information will be printed on the window
 
-show pic: choose various i to show the images ( raw , processed , fianl result )
+show pic: choose various i to show the images ( raw , processed , final result )
